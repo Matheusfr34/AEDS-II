@@ -1,33 +1,33 @@
-# 💻 AEDS II
+# AEDS II
 Repositório criado para auxiliar na disciplina de Algoritmos e Estrutura de Dados II, na Pontifícia Universidade Católica de Minas Gerais. A disciplina foi cursada em 2025.1, com o professor Daniel Capanema. 
 
-## 💡 Algoritmos
+## Algoritmos
 Pasta com os algoritmos ensinados em sala de aula.
 
-## 🏋️ BeeCrowd
+## BeeCrowd
 Pasta com exercícios solucionados da plataforma BeeCrowd para se preparar para a prova prática.  
 Plataforma → [BeeCrowd](https://judge.beecrowd.com/pt)
 
-## ⚙️ Lab
+## Lab
 Pasta com os exercícios de treinamento do laboratório.
 
-## 📘 Oficina
+## Oficina
 Pasta com os exercícios de treinamento passados na Oficina de Programação Competitiva utilizando a plataforma LeetCode.
 
-## 📚 Prova Prática
+## Prova Prática
 Pasta com a resolução de questões que caíram na prova prática no semestre 2025.1.
 
-## 📝 Quizzes
+## Quizzes
 Pasta com os quizzes passados na disciplina.
 
-## 🔥 TPs
+## TPs
 Pasta com a resolução e enunciados dos Trabalhos Práticos (TPs).
 
 ---
 
-## ▶️ Como executar os códigos
+## Como executar os códigos:
 
-### ✅ Rodar códigos em **C** pelo terminal
+### Rodar códigos em **C** pelo terminal
 
 1. Abra o terminal e navegue até a pasta onde está o arquivo `.c`.
    
@@ -43,7 +43,7 @@ Pasta com a resolução e enunciados dos Trabalhos Práticos (TPs).
    ```bash
    ./programa
    
-### ✅ Rodar códigos em Java pelo terminal
+### Rodar códigos em Java pelo terminal
 1. Abra o terminal e vá até a pasta onde está o arquivo `.java`.
    
    Exemplo:
